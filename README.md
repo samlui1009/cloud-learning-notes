@@ -10,23 +10,11 @@ Within this repository, topics are segregated into different directories.
 <br>
 
 <ul>
-    <li><b>Cloud Computing</b>:
-        <p>Includes subjects on AWS, and networking</p>
+    <li><b>Cloud Computing</b>:  Networking, cloud computing and Amazon Web Services (AWS)
     </li>
-    
-    <li><b>Containerization</b>:
-        <p>Includes subjects on Docker, Kubernetes (K8s)</p>
+    <li><b>Spring & Spring Boot</b>:  My role aims to assist in performing Spring to Spring Boot migrations for internal Java services. As such, this section will cover subjects on Spring, the differences between Spring and Spring Boot, Maven, and XML for setting up dependencies and plugins.
     </li>
-
-    <li><b>Spring & Spring Boot</b>:
-        <p>As my role aims to assist in performing the migration from Spring to Spring Boot for internal Java services, this section will cover subjects on Spring, the differences between Spring and Spring Boot, and how to set up XML files for dependencies.</p>
-    </li>
-
-    <li><b>Continuous Integration & Continuous Deployment (CI/CD)</b>:
-        <p>Work in progress.</p>
-    </li>
-
-    <li><b>Git & GitLab</b>:
-        <p>Work in progress.</p>
-    </li>
+    <li><b>Containerization</b>:  Docker (Images, Containers), Kubernetes (K8s), especially in its applications to AWS (ECS, EKS)</li>
+    <li><b>Continuous Integration & Continuous Deployment Pipelines (CI/CD)</b>:  Work in progress.</li>
+    <li><b>Git, GitLab</b>: SSH, version control, GitLab as source code repository</li>
 </ul>
