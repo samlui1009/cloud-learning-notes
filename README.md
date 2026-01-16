@@ -5,7 +5,7 @@
 <p>As an intern who is making their first foray into cloud computing, the incredible and sheer amount of learning material can be a lot and - at times - <i>overwhelming</i>. My goal for this Markdown-based repository is to document my own personal learnings on related topics, which will dive into cloud/backend architecture and containerization technologies (Docker, Kubernetes). This knowledge repo will be continually added as I also learn more - both through hands-on exposure and through self-learning.</p>
 
 ## Project Structure 
-Within this repository, topics are segregated into different directories. 
+Within this repository, topics are segregated into different directories. <b>NOTE:  This is still a work-in-progress repository, and will be continually updated as I become more well-versed in the aforementioned tools.</b>
 
 <br>
 
